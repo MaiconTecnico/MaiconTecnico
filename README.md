@@ -21,6 +21,7 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="sqlserver" width="40" height="40"/> </a>     
 <a href="https://firebirdsql.org/" target="_blank"> <img src="https://gwbminformatica.com.br/imagens/1.png" alt="Firebird" width="40" height="40"/> </a>   
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://boaglio.com/wp-content/uploads/2015/05/mongodb.png" alt="MongoDB" width="40" height="40"/> </a>   
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>  
   
   
