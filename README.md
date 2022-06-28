@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Maicon Oliveira 👋
 
 - :earth_americas:  Brazil - SC - Tubarão
 
@@ -19,8 +19,8 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/771px-Visual_Studio_Code_1.18_icon.svg.png" alt="c#" width="40" height="40"/> </a>    
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.webmundi.com/wp-content/uploads/Microsoft-SQL-Server.png" alt="sqlserver" width="40" height="40"/> </a>    
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="sqlserver" width="40" height="40"/> </a>     
-<a href="https://firebirdsql.org/" target="_blank"> <img src="https://firebirdsql.org/file/about/firebird-logo-1000.png" alt="Firebird" width="40" height="40"/> </a>   
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png" alt="MongoDB" width="40" height="40"/> </a>   
+<a href="https://firebirdsql.org/" target="_blank"> <img src="https://gwbminformatica.com.br/imagens/1.png" alt="Firebird" width="40" height="40"/> </a>   
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://boaglio.com/wp-content/uploads/2015/05/mongodb.png" alt="MongoDB" width="40" height="40"/> </a>   
 </p>  
   
   
