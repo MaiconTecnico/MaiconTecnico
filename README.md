@@ -2,8 +2,8 @@
 
 - :earth_americas:  Brazil - SC - Tubarão
 
-<div> 
-  <center><img height="400em" src="https://dtffvb2501i0o.cloudfront.net/images/rad-studio/rad-11/RAD_11_Visuals_Set_20.png"/> </center>
+<div align="center">
+  <img height="400em" src="https://dtffvb2501i0o.cloudfront.net/images/rad-studio/rad-11/RAD_11_Visuals_Set_20.png"/> 
 </div>
 
 #### Links 
