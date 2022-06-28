@@ -3,7 +3,7 @@
 - :earth_americas:  Brazil - SC - Tubarão
 
 <div> 
-  <img height="200em" src="https://www.embarcadero.com/br/products/rad-studio"/>
+  <center><img height="400em" src="https://dtffvb2501i0o.cloudfront.net/images/rad-studio/rad-11/RAD_11_Visuals_Set_20.png"/> </center>
 </div>
 
 #### Links 
